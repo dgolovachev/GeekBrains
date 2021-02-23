@@ -30,7 +30,7 @@ namespace LESSON_2
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine($"Возникла ошибка в приложениии: {e.Message}");
+                    Console.WriteLine($"Возникла ошибка в приложении: {e.Message}");
                 } 
 
             } while (input.ToLower() != "exit");
