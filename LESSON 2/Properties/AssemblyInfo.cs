@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("GeekBrains")]
+[assembly: AssemblyTitle("LESSON 2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GeekBrains")]
+[assembly: AssemblyProduct("LESSON 2")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("d1ecc622-a069-49ed-9a10-15fb60c7c923")]
+[assembly: Guid("285fd0ea-d0c0-4eed-a46e-9823ea2f2945")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

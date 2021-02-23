@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D1ECC622-A069-49ED-9A10-15FB60C7C923}</ProjectGuid>
+    <ProjectGuid>{285FD0EA-D0C0-4EED-A46E-9823EA2F2945}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GeekBrains</RootNamespace>
-    <AssemblyName>GeekBrains</AssemblyName>
+    <RootNamespace>LESSON_2</RootNamespace>
+    <AssemblyName>LESSON 2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
