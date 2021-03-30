@@ -14,5 +14,5 @@ user(сlist, plist, blist)
 PREDICATES
 find_all_by_phone(phone_number)
 find_marks_by_phone(phone_number)
-find_marks_by_l_name_and_city(l_name, city)
+find_all_by_l_name_and_city(l_name, city)
 CLAUSES
