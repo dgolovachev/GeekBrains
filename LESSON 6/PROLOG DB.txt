@@ -1,0 +1,18 @@
+DOMAINS
+l_name, phone_number, city, street, house_number, apartment_number, mark, color, bank, account = String
+cost, balance = Real
+DATABASE
+address(city, street, house_number, apartment_number)
+alist = address*
+phone(l_name, phone_number, alist)
+car(l_name, mark, color, cost)
+сlist = car*
+plist = phone*
+bank_depositors(l_name, bank, account, balance)
+blist = bank_depositors*
+user(сlist, plist, blist)
+PREDICATES
+find_all_by_phone(phone_number)
+find_marks_by_phone(phone_number)
+find_marks_by_l_name_and_city(l_name, city)
+CLAUSES
